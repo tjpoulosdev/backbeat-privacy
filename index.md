@@ -9,4 +9,4 @@ All app data (settings, presets, sequences) is stored locally on your device onl
 ## Contact
 Questions: tjpoulos.dev@gmail.com
 
-Last updated: January 26, 2025
+Last updated: August 26, 2025
