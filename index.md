@@ -1,6 +1,6 @@
-# BackBeat Metronome Privacy Policy
+# BackBeat Rhythm Metronome Privacy Policy
 
-The BackBeat Metronome app does not collect, store, or transmit any user information.
+The BackBeat Rhythm Metronome app does not collect, store, or transmit any user information.
 
 The app only connects to Apple's servers for optional In-App Purchase verification. It has no analytics or other network connections.
 
